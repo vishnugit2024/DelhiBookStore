@@ -8,7 +8,7 @@ import Link from 'next/link';
 const recentBlogs = [
   { title: "How grocers are approaching delivery", date: "Nov 3, 2023" },
   { title: "The Friday Checkout: Food insecurity", date: "Nov 3, 2023" },
-  { title: "Consumer want grocer to use AI", date: "Nov 3, 2023" },
+  { title: "Consumer is very want grocer to use AI", date: "Nov 3, 2023" },
 ];
 
 const page = () => {
